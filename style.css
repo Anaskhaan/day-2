@@ -24,7 +24,7 @@ body {
 }
 .sec-2 {
   padding: 10px;
-  border: 2px solid blue;
+  border: 2px solid red;
 }
 .sec-2 > p {
   text-align: justify;
