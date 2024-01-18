@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.container-fluid {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+.sec-1 {
+  padding: 10px;
+  border: 2px solid blue;
+}
+.sec-1 > p {
+  text-align: justify;
+}
+.sec-1 > a {
+  color: white;
+  background-color: blueviolet;
+  border-radius: 5px;
+  text-align: end;
+  float: right;
+}
+.sec-2 {
+  padding: 10px;
+  border: 2px solid blue;
+}
+.sec-2 > p {
+  text-align: justify;
+}
+.sec-2 > a {
+  color: white;
+  background-color: rgb(43, 92, 226);
+  border-radius: 5px;
+  text-align: end;
+  float: right;
+}
